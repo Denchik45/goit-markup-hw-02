@@ -1,0 +1,279 @@
+body {
+  font-family: "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+/* HEADER */
+.header {
+}
+.list {
+  list-style: none;
+}
+.link {
+  text-decoration: none;
+}
+
+.header-navigation {
+}
+
+.header-logo {
+}
+
+.header-list {
+}
+.header-item {
+}
+
+.header-link {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+
+  letter-spacing: 0.02em;
+
+  color: #2e2f42;
+}
+
+.header-address {
+}
+
+.header-list-2 {
+}
+
+.header-item2 {
+}
+
+.header-mail {
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 1.5;
+
+  letter-spacing: 0.02em;
+
+  color: #434455;
+}
+
+.header-phone {
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 1.5;
+
+  letter-spacing: 0.02em;
+
+  color: #434455;
+}
+/** ----------------HERO MAIN--------------- **/
+.hero-btn {
+  font-family: "Roboto", sans-serif;
+
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+}
+.hero-title {
+  font-family: "Roboto";
+
+  font-weight: 700;
+  font-size: 56px;
+  line-height: calc(60 / 56);
+
+  letter-spacing: 0.02em;
+}
+.feat {
+}
+.list {
+}
+.strategy-title {
+  font-family: "Roboto";
+
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+
+  letter-spacing: 0.02em;
+
+  color: #2e2f42;
+}
+.strategy-bottom-text {
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: calc(24 / 16);
+
+  letter-spacing: 0.02em;
+
+  color: #434455;
+}
+.punctuality-title {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 20px;
+  line-height: calc(24 / 20);
+
+  letter-spacing: 0.02em;
+
+  color: #2e2f42;
+}
+.punctuality-bottom-text {
+  font-family: "Roboto";
+
+  font-size: 16px;
+  line-height: calc(24 / 16);
+
+  letter-spacing: 0.02em;
+
+  color: #434455;
+}
+.diligence-title {
+  font-family: "Roboto";
+
+  font-weight: 500;
+  font-size: 20px;
+  line-height: calc(24 / 20);
+
+  letter-spacing: 0.02em;
+
+  color: #2e2f42;
+}
+.diligence-bottom-text {
+  font-family: "Roboto";
+
+  font-size: 16px;
+  line-height: calc(24 / 16);
+
+  letter-spacing: 0.02em;
+
+  color: #434455;
+}
+.technologies-title {
+  font-family: "Roboto";
+
+  font-weight: 500;
+  font-size: 20px;
+  line-height: calc(24 / 20);
+
+  letter-spacing: 0.02em;
+
+  color: #2e2f42;
+}
+.technologies-bottom-text {
+  font-family: "Roboto";
+
+  font-size: 16px;
+  line-height: calc(24 / 16);
+
+  letter-spacing: 0.02em;
+
+  color: #434455;
+}
+.what-title {
+  font-family: "Roboto";
+
+  font-weight: 700;
+  font-size: 36px;
+  line-height: calc(40 / 36);
+  color: #2e2f42;
+}
+.ourteam-title {
+  font-family: "Roboto";
+
+  font-weight: 700;
+  font-size: 36px;
+  line-height: calc(40 / 36);
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.mark-title {
+  font-family: "Roboto";
+
+  font-weight: 500;
+  font-size: 20px;
+  line-height: calc(24 / 20);
+
+  letter-spacing: 0.02em;
+
+  color: #2e2f42;
+}
+.mark-bottom-text {
+  font-family: "Roboto";
+
+  font-size: 16px;
+  line-height: calc(24 / 16);
+
+  letter-spacing: 0.02em;
+
+  color: #434455;
+}
+.tom-title {
+  font-family: "Roboto";
+
+  font-weight: 500;
+  font-size: 20px;
+  line-height: calc(24 / 20);
+
+  letter-spacing: 0.02em;
+
+  color: #2e2f42;
+}
+.tom-bottom-text {
+  font-family: "Roboto";
+
+  font-size: 16px;
+  line-height: calc(24 / 16);
+
+  letter-spacing: 0.02em;
+
+  color: #434455;
+}
+.camilla-title {
+  font-family: "Roboto";
+
+  font-weight: 500;
+  font-size: 20px;
+  line-height: calc(24 / 20);
+
+  letter-spacing: 0.02em;
+
+  color: #2e2f42;
+}
+.camilla-bottom-text {
+  font-family: "Roboto";
+
+  font-size: 16px;
+  line-height: calc(24 / 16);
+
+  letter-spacing: 0.02em;
+
+  color: #434455;
+}
+.daniel-title {
+  font-family: "Roboto";
+
+  font-weight: 500;
+  font-size: 20px;
+  line-height: calc(24 / 20);
+
+  letter-spacing: 0.02em;
+
+  color: #2e2f42;
+}
+.daniel-bottom-text {
+  font-family: "Roboto";
+
+  font-size: 16px;
+  line-height: calc(24 / 16);
+
+  letter-spacing: 0.02em;
+
+  color: #434455;
+}
+.footer-bottom-text {
+  font-family: "Roboto";
+
+  font-size: 16px;
+  line-height: calc(24 / 16);
+  letter-spacing: 0.02em;
+}
